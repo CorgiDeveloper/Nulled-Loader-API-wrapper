@@ -3,7 +3,7 @@
 - Character set: Unicode Character Set
 - Build x64 release
 
-- Required packages (x64):
+- Required packages via VCPKG (x64):
 - websocketpp
 - nlohmann-json
 - curlpp
