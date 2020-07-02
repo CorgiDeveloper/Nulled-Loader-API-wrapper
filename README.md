@@ -2,7 +2,8 @@
 
 - Character set: Unicode Character Set
 - Build x64 release
-- Required packages:
+
+- Required packages (x64):
 - websocketpp
 - nlohmann-json
 - curlpp
